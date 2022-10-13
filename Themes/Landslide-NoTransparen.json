@@ -1,11 +1,11 @@
 {
-  "name": "Landslide",
+  "name": "Landslide-NoTransparency",
   "version": "6.6.6",
   "description": "Purple-grey comfy theme (really nice)",
   "authors": [
     {
-      "name": "Fel1x#0666",
-      "id": "499287211381096458"
+      "name": "Fel1x#0666 / natily",
+      "id": "413435772352331777"
     }
   ],
   "theme_color_map": {
