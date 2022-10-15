@@ -1,0 +1,28 @@
+{
+    "name": "Test Theme",
+    "version": "1.0.0",
+    "description": "Me testing shit out.",
+    "authors": [
+        {
+            "name": "natily",
+            "id": "413435772352331777"
+        }
+    ],
+    "theme_color_map": {
+        "BACKGROUND_PRIMARY": [
+            "#2E3440",
+            "#ECEFF4"
+        ]
+    },
+    "colours": {
+        "PRIMARY_DARK": "#2E3440"
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": "#1a1926"
+    },
+    "background": {
+        "blur": 1,
+        "url": "https://cdn.discordapp.com/attachments/590618981501763615/1030863304756838430/image.jpg",
+        "alpha": 1.0
+    }
+}
